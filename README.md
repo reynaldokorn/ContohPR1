@@ -46,7 +46,8 @@
 - Tulis Kode List tersebut.
 - Teken Tombol Generate , Maka Auto Keluar Nama Item tersebut. 
 - Saat Jumlah , Kamu Bisa Klik Tombo + atau - , Tergantung Quantity yang disediakan.
-- Teken Tombol Submit , Maka List Barang yang kamu mau beli akan ada di DataGriedView dan Auto Menghitung Quantity , Harga dan Pajak tersebut.
+- Teken Tombol Submit , Maka List Barang yang kamu mau beli akan ada di DataGriedView dan Auto Menghitung 
+  Quantity , Harga dan Pajak tersebut.
 - Saat List Barang Sudah di DataGridView Maka Akan Auto Menghitung Total Harga.
 
 
