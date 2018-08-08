@@ -3,6 +3,8 @@
 
 ## Mata Kuliah : **Team Collaboration Tools & Agile Software Development**
 
+## **Nama Project : Pembelajaan**
+
 ## Product Owner : 
 - **Okky Putra Barus** 
 - **[Des Dulianto](https://github.com/desdulianto)**
@@ -19,8 +21,10 @@
   1.1	User dapat menambah item barang.
   1.2	User dapat mengedit item barang.
   1.3	User dapat menghapus item barang.
-  1.4 User dapat refresh item barang.
+  1.4  User dapat refresh item barang.
 
   2.	User dapat menghitung total harga dari barang yang dibeli.
 
 ```
+
+
