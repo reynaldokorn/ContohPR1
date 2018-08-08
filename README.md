@@ -7,5 +7,9 @@
 - **Okky Putra Barus**
 - **Des Dulianto**
 
-- [Reynaldo Fang](https://github.com/reynaldokorn).
+
+## List Anggota :
+1. [Reynaldo Fang](https://github.com/reynaldokorn) (03082170003) (Scrum Master)
+2. [Levina Khomulia](https://github.com/LevinaKhomulia) (03082170019) (Team Development)
+3. [Richard Cenderawan](https://github.com/richardcenderawan) (03082170009) (Team Development)
 
