@@ -4,8 +4,8 @@
 ## Mata Kuliah : **Team Collaboration Tools & Agile Software Development**
 
 ## Product Owner : 
-- **Okky Putra Barus**
-- **Des Dulianto**
+- **Okky Putra Barus** 
+- **[Des Dulianto](https://github.com/desdulianto)**
 
 
 ## List Anggota :
