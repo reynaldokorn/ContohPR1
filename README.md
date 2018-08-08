@@ -7,4 +7,4 @@
 - **Okky Putra Barus**
 - **Des Dulianto**
 
-- [Reynaldo Fang ] (https://github.com/reynaldokorn)
+- [Reynaldo Fang] (https://github.com/reynaldokorn).
