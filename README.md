@@ -29,24 +29,25 @@
 
 ## Fitur :
 
-1. User dapat Menambahan List Barang 
-- Klik Button Tambah , Maka Akan Masuk Ke Form Tambah
-- Isi Semua Data Yang Ingin Dimasukkan
-- Klik Simpan 
-- Saat Kembali Ke Main Menu , Klik Button Refresh Maka Data yang kalian tambah sudah ada di DataGridView
+1. **User dapat Menambahan List Barang** 
+- Klik Button Tambah , Maka Akan Masuk Ke Form Tambah.
+- Isi Semua Data Yang Ingin Dimasukkan.
+- Klik Simpan. 
+- Saat Kembali Ke Main Menu , Klik Button Refresh Maka Data yang kalian tambah sudah ada di DataGridView.
 
-2. User dapat Menghapus Barang
-- Pilih Row Yang Diinginkan
-- Teken Button Hapus 
-- Saat Teken Button Hapus , Maka Muncul MessageBox "Apa Anda Yakin Ingin Menghapus Data Tersebut?" Jika Yes Maka Hapus Data Tersebut
-- Teken Button Refresh Maka Data Akan Hilang di DataGridView
+2. **User dapat Menghapus Barang**
+- Pilih Row Yang Diinginkan.
+- Teken Button Hapus. 
+- Saat Teken Button Hapus , Maka Muncul MessageBox "Apa Anda Yakin Ingin Menghapus Data Tersebut?" Jika Yes Maka Hapus Data tersebut.
+- Teken Button Refresh Maka Data Akan Hilang di DataGridView.
 
-3. User Dapat Hitung Barang
-- Teken Button Hitung , Maka Akan Masuk Ke Form Hitung
-- Tulis Kode List tersebut
-- Teken Tombol Generate , Maka Auto Keluar Nama Item Tersebut 
-- Saat Jumlah , Kamu Bisa Klik Tombo + atau - , Tergantung Quantity Yang disediakan
-- Teken Tombol Submit , Maka List Barang yang kamu mau beli akan ada di DataGriedView dan Auto Total Harga
+3. **User Dapat Hitung Barang**
+- Teken Button Hitung , Maka Akan Masuk Ke Form Hitung.
+- Tulis Kode List tersebut.
+- Teken Tombol Generate , Maka Auto Keluar Nama Item tersebut. 
+- Saat Jumlah , Kamu Bisa Klik Tombo + atau - , Tergantung Quantity yang disediakan.
+- Teken Tombol Submit , Maka List Barang yang kamu mau beli akan ada di DataGriedView dan Auto Menghitung Quantity , Harga dan Pajak tersebut.
+- Saat List Barang Sudah di DataGridView Maka Akan Auto Menghitung Total Harga.
 
 
 
